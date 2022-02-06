@@ -5,3 +5,4 @@
 ---
 
 ### [Download](https://github.com/1ukidev/AAAAAAAA/releases/download/AAAAAAAA/AAAAAAAA.exe) (Windows binary)
+### <https://1ukidev.github.io/AAAAAAAA>
